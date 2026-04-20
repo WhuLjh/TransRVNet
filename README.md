@@ -5,7 +5,7 @@
 </div>
 
 A transferable open-source data-driven framework for cross-domain multimodal extraction and analysis of RV.
-The final large-scale mapping dataset for key Southeast Asian cities can be **downloaded from [**BaiduNetdisk**](https://pan.baidu.com/s/19Z2aYG1-cfr4ezvLGt_Sog?pwd=5pku)**. 
+The final large-scale mapping dataset for key Southeast Asian cities can be **downloaded from [**BaiduNetdisk**](https://pan.baidu.com/s/1fsMQNmk6qT84og3TMaGl4w?pwd=8tvm)**. 
 
 ### Data folder structure
 
