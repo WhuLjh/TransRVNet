@@ -57,7 +57,7 @@ python tools/adapt_mm.py --cfg ./configs/rv_UDASS.yaml
 ```
 
 ## Prediction
-**Model weights can be downloaded from [**BaiduNetdisk**](https://pan.baidu.com/s/1J1YK2Rnbn8rJQkq8munVaQ)** and will be made available after publication of this article.
+**The source-domain and UDASS models' weights can be downloaded from [**BaiduNetdisk**](https://pan.baidu.com/s/1J1YK2Rnbn8rJQkq8munVaQ)** and will be made available after publication of this article.
 
 Modify `--cfg` to respective config file, and run:
 ```bash
